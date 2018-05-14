@@ -22,6 +22,7 @@ int main(){
 	assert(t2 == game2.s);
 	cout << "passed" << endl;
 	assert(t2 == game.s);
+	assert(t2 == game2.s);
 	return 0;
 }
 
