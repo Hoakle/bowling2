@@ -27,4 +27,4 @@ mrproper: clean
 	rm -rf $(EXEC)
 	
 test:
-	./unittest.exe
+	./unittest
