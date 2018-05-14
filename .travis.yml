@@ -3,4 +3,5 @@ compiler: g++
 
 script: 
     - make
+    - ls
     - make test
